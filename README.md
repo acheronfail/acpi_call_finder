@@ -1,4 +1,4 @@
-# `disable_gpu`
+# `acpi_call_finder`
 
 This is a small script I wrote to help me figure out which ACPI method was needed to disable the discrete GPU in a laptop.
 

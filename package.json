@@ -1,5 +1,5 @@
 {
-  "name": "disable_gpu",
+  "name": "acpi_call_finder",
   "type": "module",
   "private": true
 }
