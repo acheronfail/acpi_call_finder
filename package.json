@@ -1,0 +1,5 @@
+{
+  "name": "disable_gpu",
+  "type": "module",
+  "private": true
+}
